@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cv-live/static/css/main.cae35d49.css",
+    "main.js": "/cv-live/static/js/main.f571bc81.js",
+    "static/media/avatar.jpg": "/cv-live/static/media/avatar.77698acdb4510e808a03.jpg",
+    "index.html": "/cv-live/index.html",
+    "main.cae35d49.css.map": "/cv-live/static/css/main.cae35d49.css.map",
+    "main.f571bc81.js.map": "/cv-live/static/js/main.f571bc81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae35d49.css",
+    "static/js/main.f571bc81.js"
+  ]
+}
